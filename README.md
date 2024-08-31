@@ -1,4 +1,4 @@
-# Kotlin Multiplatform Mobile (KMM) Project 🚀
+# Kotlin Multiplatform Mobile (KMM) 🚀
 
 A ready-to-use boilerplate for Kotlin Multiplatform Mobile applications with Android and iOS targets.
 
@@ -21,10 +21,6 @@ A ready-to-use boilerplate for Kotlin Multiplatform Mobile applications with And
 - Android app customization: Modify files in the `androidApp` module
 - iOS app customization: Modify files in the `iosApp` module
 - Shared code: Update the `shared` module
-
-## Project Setup 🛠️
-
-Clone the repository and open it in Android Studio or your preferred IDE that supports KMM development.
 
 ## Gradle Tasks 🔧
 
